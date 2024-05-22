@@ -1,0 +1,33 @@
+INFO  11:22:22  (TestBase.java:97) - Writing debug log to: C:\Selenium Workspace\Logs\basic\OldCodeTest866.log
+INFO  11:22:23  (TestBase.java:217) - Starting to record the test
+INFO  11:22:23  (FileUtilis.java:48) - Created dir: C:\Selenium Workspace\Recordings\basic\OldCodeTest
+INFO  11:22:23  (TestBase.java:223) - Saving recording to: 'C:\Selenium Workspace\Recordings\basic\OldCodeTest'.
+INFO  11:22:23  (TestBase.java:158) - *************************************************************************
+INFO  11:22:23  (TestBase.java:159) - The 'OldCodeTest' test has started.
+INFO  11:22:23  (TestBase.java:160) - Start time: 06/05/2024 11:22:23
+INFO  11:22:23  (TestBase.java:161) - *************************************************************************
+INFO  11:22:23  (OldCodeTest.java:22) - Open site
+INFO  11:22:24  (OldCodeTest.java:25) - Click 'Log in' menu-link
+INFO  11:22:25  (OldCodeTest.java:28) - Ensure the 'Login' page was opened successfully
+INFO  11:22:25  (OldCodeTest.java:31) - Click 'Register' button
+INFO  11:22:26  (OldCodeTest.java:34) - Ensure the 'Register' page was opened successfully
+INFO  11:22:26  (OldCodeTest.java:37) - Type into 'First name' textbox the value 'Rotem'
+INFO  11:22:26  (OldCodeTest.java:40) - Type into 'Last name' textbox the value 'Kashani'
+INFO  11:22:26  (OldCodeTest.java:43) - Type into 'Email' textbox the value 'rotemkash0605241122211@gmail.com'
+INFO  11:22:26  (OldCodeTest.java:46) - Type into 'Password' textbox the value '123456'
+INFO  11:22:26  (OldCodeTest.java:49) - Type into 'Confirm password' textbox the value '123456'
+INFO  11:22:27  (OldCodeTest.java:52) - Click 'REGISTER' button
+INFO  11:22:27  (OldCodeTest.java:55) - Ensure the registration was completed successfully
+INFO  11:22:27  (OldCodeTest.java:60) - Click 'Continue' button
+INFO  11:22:28  (OldCodeTest.java:63) - Ensure back to main page successfully
+INFO  11:22:28  (OldCodeTest.java:66) - Click 'Log out' menu-link
+INFO  11:22:29  (OldCodeTest.java:69) - Ensure the 'Log in' menu-link appears above
+INFO  11:22:31  (TestBase.java:241) - Stop the recording of the test
+INFO  11:22:31  (TestBase.java:270) - Recording is saved in: C:\Selenium Workspace\Recordings\basic\OldCodeTest\OldCodeTest0605241122.avi
+INFO  11:22:31  (TestBase.java:169) - *************************************************************************
+INFO  11:22:31  (TestBase.java:170) - The 'OldCodeTest' test has ended successfully.
+INFO  11:22:31  (TestBase.java:171) - Start time: 06/05/2024 11:22:23
+INFO  11:22:31  (TestBase.java:172) - End time:       06/05/2024 11:22:31.
+INFO  11:22:31  (TestBase.java:173) - -------------------------------------------------------------------------
+INFO  11:22:31  (TestBase.java:174) - Total run time: 0 days, 0 hours, 0 minutes, 8.754 seconds.
+INFO  11:22:31  (TestBase.java:175) - *************************************************************************

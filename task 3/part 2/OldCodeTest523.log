@@ -1,0 +1,18 @@
+INFO  15:28:30  (TestBase.java:97) - Writing debug log to: C:\Selenium Workspace\Logs\basic\OldCodeTest523.log
+INFO  15:28:30  (TestBase.java:158) - *************************************************************************
+INFO  15:28:30  (TestBase.java:159) - The 'OldCodeTest' test has started.
+INFO  15:28:30  (TestBase.java:160) - Start time: 16/04/2024 15:28:30
+INFO  15:28:30  (TestBase.java:161) - *************************************************************************
+INFO  15:28:30  (OldCodeTest.java:18) - Opened the website
+INFO  15:28:34  (OldCodeTest.java:23) - Click 'Register' link
+INFO  15:28:36  (OldCodeTest.java:29) - Select male radio
+INFO  15:28:39  (OldCodeTest.java:36) - Enter email address: rotemkash1604241528008@gmail.com
+INFO  15:28:41  (OldCodeTest.java:42) - Getting text from 'Register' button
+INFO  15:28:41  (OldCodeTest.java:44) - Text from 'Register' button: REGISTER
+INFO  15:28:41  (TestBase.java:169) - *************************************************************************
+INFO  15:28:41  (TestBase.java:170) - The 'OldCodeTest' test has ended successfully.
+INFO  15:28:41  (TestBase.java:171) - Start time: 16/04/2024 15:28:30
+INFO  15:28:41  (TestBase.java:172) - End time:       16/04/2024 15:28:41.
+INFO  15:28:41  (TestBase.java:173) - -------------------------------------------------------------------------
+INFO  15:28:41  (TestBase.java:174) - Total run time: 0 days, 0 hours, 0 minutes, 10.702 seconds.
+INFO  15:28:41  (TestBase.java:175) - *************************************************************************
