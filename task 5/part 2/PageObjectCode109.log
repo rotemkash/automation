@@ -1,0 +1,28 @@
+INFO  22:33:19  (TestBase.java:97) - Writing debug log to: C:\Selenium Workspace\Logs\basic\PageObjectCode109.log
+INFO  22:33:19  (TestBase.java:158) - *************************************************************************
+INFO  22:33:19  (TestBase.java:159) - The 'PageObjectCode' test has started.
+INFO  22:33:19  (TestBase.java:160) - Start time: 25/05/2024 22:33:19
+INFO  22:33:19  (TestBase.java:161) - *************************************************************************
+INFO  22:33:22  (HomePage.java:16) - Ensure back to main page successfully
+INFO  22:33:22  (MenusPage.java:23) - Click 'Log in' menu-link
+INFO  22:33:23  (LoginPage.java:16) - Ensure the 'Login' page was opened successfully
+INFO  22:33:23  (LoginPage.java:23) - Click 'Register' button
+INFO  22:33:24  (RegisterPage.java:23) - Ensure the 'Register' page was opened successfully
+INFO  22:33:24  (RegisterPage.java:30) - Type into 'First name' textbox the value 'Rotem'
+INFO  22:33:24  (RegisterPage.java:36) - Type into 'Last name' textbox the value 'Kashani'
+INFO  22:33:25  (RegisterPage.java:42) - Type into 'Email' textbox the value 'rotemkash2505242233569@gmail.com'
+INFO  22:33:25  (RegisterPage.java:48) - Type into 'Password' textbox the value '123456'
+INFO  22:33:25  (RegisterPage.java:54) - Type into 'Confirm password' textbox the value '123456'
+INFO  22:33:25  (RegisterPage.java:60) - Click 'REGISTER' button
+INFO  22:33:26  (RegisterSuccessPage.java:26) - Ensure the registration was completed successfully
+INFO  22:33:26  (RegisterSuccessPage.java:34) - Click 'Continue' button
+INFO  22:33:27  (HomePage.java:16) - Ensure back to main page successfully
+INFO  22:33:27  (MenusPage.java:37) - Click 'Log out' menu-link
+INFO  22:33:28  (MenusPage.java:31) - Ensure the 'Log in' menu-link appears above
+INFO  22:33:28  (TestBase.java:169) - *************************************************************************
+INFO  22:33:28  (TestBase.java:170) - The 'PageObjectCode' test has ended successfully.
+INFO  22:33:28  (TestBase.java:171) - Start time: 25/05/2024 22:33:19
+INFO  22:33:28  (TestBase.java:172) - End time:       25/05/2024 22:33:28.
+INFO  22:33:28  (TestBase.java:173) - -------------------------------------------------------------------------
+INFO  22:33:28  (TestBase.java:174) - Total run time: 0 days, 0 hours, 0 minutes, 8.835 seconds.
+INFO  22:33:28  (TestBase.java:175) - *************************************************************************
